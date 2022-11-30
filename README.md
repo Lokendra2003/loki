@@ -6,7 +6,7 @@
 		naa website naa istam
 	</title>
 </head>
-<body class="one" background="C:\Users\loken\Downloads\liftimage.jpg" link="#000" alink="#017bf5" vlink="#000">
+<body class="one" background="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Felevator&psig=AOvVaw13VXAU19sAZC4ZoMo45xdV&ust=1669873192496000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDc-8SY1fsCFQAAAAAdAAAAABAE" link="#000" alink="#017bf5" vlink="#000">
 	<br />
 	<h3 align="center">
 		<font face="Lato" size="6">Call Lift Manager</font>
